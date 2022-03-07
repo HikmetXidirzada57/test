@@ -1,0 +1,21 @@
+#products{
+.product-list{
+    .product-item{
+        margin: 10px;
+        img{
+            width: 300px;
+            height: 300px;
+            object-fit: cover;
+        }
+        h4{
+            padding: 4px;
+        }
+    }
+}
+}
+.basket-icon{
+    i{
+        color: #222;
+        cursor: pointer;
+    }
+}
